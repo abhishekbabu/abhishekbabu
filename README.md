@@ -4,4 +4,4 @@
 - I’m currently looking and actively interviewing for full-time opportunities in Software Engineering, Data Engineering and Data Science for 2022. Feel free to reach out to me with any opportunities.
 - You can reach me at my email: [babua@cs.washington.edu](mailto:babua@cs.washington.edu); or visit my personal website to learn about me: [abhishekbabu.github.io](https://abhishekbabu.github.io/)
 
-[![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbabu)](https://github.com/anuraghazra/github-readme-stats)
+[![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbabu&theme=dracula&exclude_repo=abhishekbabu,abhishekbabu.github.io)](https://github.com/anuraghazra/github-readme-stats)
