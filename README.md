@@ -4,4 +4,11 @@
 - I will be joining Robinhood's Menlo Park, CA office as a Software Engineer in August 2022!
 - You can reach me at my email: [babua@cs.washington.edu](mailto:babua@cs.washington.edu); or visit my personal website to learn about me: [abhishekbabu.github.io](https://abhishekbabu.github.io/)
 
-[![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbabu&theme=dracula&exclude_repo=abhishekbabu,abhishekbabu.github.io)](https://github.com/anuraghazra/github-readme-stats)
+Here are some stats for fun!
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekbabu&show_icons=true&theme=dracula&hide=issues)
+![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbabu&theme=dracula&exclude_repo=abhishekbabu,abhishekbabu.github.io&layout=compact)
+
+Well, you can see I am a heavy Jupyter Notebook user. This is the breakdown without Jupyter Notebooks:
+
+![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbabu&theme=dracula&exclude_repo=abhishekbabu,abhishekbabu.github.io&layout=compact&hide=Jupyter%20Notebook)
