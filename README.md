@@ -7,4 +7,4 @@
 Here are some stats for fun from my public repositories! I've excluded templating and markup languages like HTML, CSS, Pug, etc.
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekbabu&show_icons=true&theme=dracula&hide=issues)
-![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbabu&theme=dracula&exclude_repo=abhishekbabu,abhishekbabu.github.io&hide=HTML,CSS,Pug&langs_count=10&layout=compact)
+![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbabu&theme=dracula&exclude_repo=abhishekbabu&hide=HTML,CSS,Pug,PHP&langs_count=10&layout=compact)
