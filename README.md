@@ -4,7 +4,7 @@
 - I will be joining Robinhood's Menlo Park, CA office as a Software Engineer in August 2022!
 - You can reach me at my email: [babua@cs.washington.edu](mailto:babua@cs.washington.edu); or visit my personal website to learn about me: [abhishekbabu.github.io](https://abhishekbabu.github.io/)
 
-Here are some stats for fun! I've excluded templating and markup languages like HTML, CSS, Pug, etc.
+Here are some stats for fun from my public repositories! I've excluded templating and markup languages like HTML, CSS, Pug, etc.
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekbabu&show_icons=true&theme=dracula&hide=issues)
-![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbabu&theme=dracula&exclude_repo=abhishekbabu,abhishekbabu.github.io&layout=compact&hide=HTML,CSS,Pug)
+![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbabu&theme=dracula&exclude_repo=abhishekbabu,abhishekbabu.github.io&hide=HTML,CSS,Pug&langs_count=10&layout=compact)
