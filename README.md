@@ -2,7 +2,7 @@
 
 Software engineer in San Francisco. Always building, always learning.
 
-🚀 Building AI-native CPQ at [Roadrunner](https://roadrunner.ai) — software for configuring, pricing, and quoting complex deals.
+🚀 Building an AI-native CPQ at [Roadrunner](https://roadrunner.ai) — software for configuring, pricing, and quoting complex deals.
 
 💸 Previously at [Robinhood](https://robinhood.com), where I moved billions of dollars across the payment infrastructure and built automated portfolio rebalancing, tax-loss harvesting, tax-aware asset transfers, and performance benchmarking for Robinhood Strategies.
 
