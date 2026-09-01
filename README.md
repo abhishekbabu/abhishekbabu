@@ -1,8 +1,8 @@
 # Hi, I'm Abhi 👋
 
-Software engineer in San Francisco. Always building, always learning.
+Tech Lead Manager in San Francisco. Always building, always learning.
 
-🚀 Building an AI-native CPQ at [Roadrunner](https://roadrunner.ai) — engineering software for configuring, pricing, and quoting complex deals.
+🚀 Building PQA — prompt, quote, approve — at [Roadrunner](https://roadrunner.ai), reinventing how complex deals get configured, priced, and quoted.
 
 💸 Previously built payment infrastructure at [Robinhood](https://robinhood.com) that moved billions of dollars, and shipped automated portfolio rebalancing, tax-loss harvesting, tax-aware asset transfers, and performance benchmarking for [Robinhood Strategies](https://robinhood.com/strategies).
 
